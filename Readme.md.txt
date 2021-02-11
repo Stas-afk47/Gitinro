@@ -1,4 +1,4 @@
-Тута тескт.
+##Основные команды
 git init
 git status
-git as
+git add
