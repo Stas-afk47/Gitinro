@@ -1,0 +1,3 @@
+#Команды
+:git init:
+touch Newfile.txt
